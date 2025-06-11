@@ -7,6 +7,7 @@
 **TalismanRandomizer** è un tool non ufficiale pensato come supporto per i giocatori di Talisman: The Magical Quest Game, il celebre gioco da tavolo fantasy ideato da Robert Harris e pubblicato da Games Workshop e Fantasy Flight Games.
 
 **Obiettivo del progetto**
+
 Il motivo per il quale ho iniziato questo progetto:
 - Volevo creare una tool utile e allo stesso tempo allenarmi in Java.
 - Volevo giocare al gioco in modo diverso.
