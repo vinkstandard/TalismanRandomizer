@@ -1,22 +1,17 @@
 # Talisman Randomizer
 
-👉 [Italiano](README.it.md) 
+[Italiano](README.it.md) 
 
 **TalismanRandomizer** is an unofficial tool designed to support players of *Talisman: The Magical Quest Game*, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
 
-🎯 **Project Goals**  
-This project was born both as an educational tool for learning programming and as a way to:
-
-- Provide a practical digital assistant for Talisman players  
-- Automate repetitive setup phases of the game  
-- Explore random logic and game content management in a software environment
+**Project Goals**  
+The reasons behind this project:
+- I wanted to create an useful tool and in the same time, train my Java skills.
+- I wanted to play the game in a different way.
 
 🔴 TalismanRandomizer is an unofficial fan-made tool for personal and community use.  
 🔴 This project is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.  
 🔴 All rights to the names, artwork, and original game content belong to their respective owners.
-
-🕹️ **How to Use**  
-When you launch the program, an interactive window will appear to guide you step-by-step through the game setup.
 
 🟢 **Procedure:**  
 - **Enter the number of players**  
@@ -26,17 +21,15 @@ When you launch the program, an interactive window will appear to guide you step
   You can then select, via a simple interface, which Talisman expansions to include in the character pool. Only characters from the selected expansions will be considered in the draw.
 
 - **Draw characters**  
-  Once your preferences are set, click on the "Draw Characters" button. The program will randomly assign characters to each player.
-
-🟢 In just a few seconds, you'll have a personalized and completely random setup—perfect to start your magical adventure in the world of Talisman!
+  Once your preferences are set, click on the "Draw Characters" button, and the program will start generating characters.
 
 🔗 **Available Versions**  
 Two versions of TalismanRandomizer are available, both created and maintained by me:
 
-🖥️ **GUI Version:**  
+**GUI Version:**  
 - https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
 
-💻 **Command-Line Version (CMD):** (only available in italian)
+**Command-Line Version (CMD):** (only available in italian)
 - https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
 Both versions are available as source code, so anyone interested can study, modify, or adapt the tool for their own needs.
