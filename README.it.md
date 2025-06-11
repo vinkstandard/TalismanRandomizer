@@ -24,6 +24,7 @@ I nomi, le immagini e i contenuti originali appartengono ai rispettivi proprieta
   Una volta impostate le preferenze, cliccando sul pulsante "Estrai personaggi", il programma inizierà a generare personaggi.
 
 🔗 **Versioni disponibili**
+
 Sono disponibili due versioni di TalismanRandomizer, entrambe create e mantenute da me:
 
 **Versione con interfaccia grafica (GUI):**
