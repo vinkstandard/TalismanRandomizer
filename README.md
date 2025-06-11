@@ -13,6 +13,8 @@ The reasons behind this project:
 It is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.
 All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
 
+![Demo Animata](img/demo.gif)
+
 🟢 **Procedure:**  
 - **Enter the number of players**  
   In the initial window, you will be asked to enter how many players will take part in the game. The number entered will determine how many characters will be drawn.
