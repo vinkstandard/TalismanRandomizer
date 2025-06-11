@@ -1,46 +1,47 @@
 # Talisman Randomizer
 
-**TalismanRandomizer** è un tool non ufficiale pensato come supporto per i giocatori di Talisman: The Magical Quest Game, il celebre gioco da tavolo fantasy ideato da Robert Harris e pubblicato da Games Workshop e Fantasy Flight Games.
+👉 [Italiano](README.it.md) 
 
-🎯 **Obiettivo del progetto**
-Questo progetto nasce con uno scopo educativo e di apprendimento della programmazione, ma anche con l’intento di:
+**TalismanRandomizer** is an unofficial tool designed to support players of *Talisman: The Magical Quest Game*, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
 
-Offrire un assistente digitale pratico per i giocatori di Talisman
+🎯 **Project Goals**  
+This project was born both as an educational tool for learning programming and as a way to:
 
-Automatizzare fasi ripetitive del gioco per semplificare il setup
+- Provide a practical digital assistant for Talisman players  
+- Automate repetitive setup phases of the game  
+- Explore random logic and game content management in a software environment
 
-Esplorare la logica casuale e la gestione di contenuti ludici in ambiente software
+🔴 TalismanRandomizer is an unofficial fan-made tool for personal and community use.  
+🔴 This project is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.  
+🔴 All rights to the names, artwork, and original game content belong to their respective owners.
 
-🔴 TalismanRandomizer è un tool non ufficiale, creato da un fan del gioco per uso personale e comunitario. 🔴 Questo progetto non è affiliato, supportato o autorizzato da Games Workshop, Fantasy Flight Games, Asmodee, né da altri detentori dei diritti di Talisman. 🔴 Tutti i diritti sui nomi, artwork e contenuti originali del gioco appartengono ai rispettivi proprietari.
+🕹️ **How to Use**  
+When you launch the program, an interactive window will appear to guide you step-by-step through the game setup.
 
-🕹️ **Come si usa**
-All'avvio del programma si aprirà una comoda finestra interattiva che guiderà l'utente passo dopo passo nella configurazione della partita.
+🟢 **Procedure:**  
+- **Enter the number of players**  
+  In the initial window, you will be asked to enter how many players will take part in the game. The number entered will determine how many characters will be drawn.
 
-🟢 **Procedura:** 
-- **Inserimento del numero di giocatori**
-  Nella finestra iniziale verrà richiesto di indicare quanti giocatori prenderanno parte alla partita. Il numero inserito determinerà quanti personaggi verranno estratti successivamente.
+- **Select expansions**  
+  You can then select, via a simple interface, which Talisman expansions to include in the character pool. Only characters from the selected expansions will be considered in the draw.
 
-- **Selezione delle espansioni**
- Potrai poi selezionare, tramite una semplice interfaccia, le espansioni di Talisman che desideri includere nel pool di personaggi disponibili. Solo i personaggi appartenenti alle espansioni attivate saranno considerati nell’estrazione.
+- **Draw characters**  
+  Once your preferences are set, click on the "Draw Characters" button. The program will randomly assign characters to each player.
 
-- **Estrazione dei personaggi**
-  Una volta impostate le preferenze, cliccando sul pulsante "Estrai personaggi", il programma effettuerà un’estrazione casuale assegnando personaggi al giocatore.
+🟢 In just a few seconds, you'll have a personalized and completely random setup—perfect to start your magical adventure in the world of Talisman!
 
-🟢 In pochi secondi, avrai a disposizione un setup personalizzato e completamente casuale, perfetto per iniziare subito la tua avventura nel mondo magico di Talisman!
+🔗 **Available Versions**  
+Two versions of TalismanRandomizer are available, both created and maintained by me:
 
-🔗 **Versioni disponibili**
-Sono disponibili due versioni di TalismanRandomizer, entrambe create e mantenute da me:
+🖥️ **GUI Version:**  
+👉 TalismanRandomizer GUI on GitHub: https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
 
-🖥️ **Versione con interfaccia grafica (GUI):**
-👉 TalismanRandomizer GUI su GitHub : https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
+💻 **Command-Line Version (CMD):**  
+👉 TalismanRandomizer CMD on GitHub: https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
-💻 **Versione da terminale (CMD):**
-👉 TalismanRandomizer CMD su GitHub : https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
+Both versions are available as source code, so anyone interested can study, modify, or adapt the tool for their own needs.
 
-Entrambe le versioni sono disponibili in formato codice sorgente, in modo che chiunque voglia possa studiare, modificare o adattare il tool alle proprie esigenze.
+🔴 Distribution and use of the program are permitted, as is code modification for personal or educational purposes.  
+🔴 If you wish to publish a modified version of the program, you must include a link to my original GitHub repository as the original author in your project description or README file.
 
-🔴 La distribuzione e l’utilizzo del programma sono permessi, così come la modifica del codice per scopi personali o didattici.
-
-🔴 Se desideri pubblicare una versione modificata del programma, è obbligatorio includere il link della mia repository GitHub come autore originale nella descrizione del tuo progetto o nel file README.
-
-Per domande o altro, questo è il mio Discord ID: **176797901102645248**
+For questions or anything else, here is my Discord ID: **176797901102645248**
