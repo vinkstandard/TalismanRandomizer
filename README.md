@@ -34,10 +34,10 @@ When you launch the program, an interactive window will appear to guide you step
 Two versions of TalismanRandomizer are available, both created and maintained by me:
 
 🖥️ **GUI Version:**  
-👉 TalismanRandomizer GUI: https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
+- https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
 
 💻 **Command-Line Version (CMD):** (only available in italian)
-👉 TalismanRandomizer CMD: https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
+- https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
 Both versions are available as source code, so anyone interested can study, modify, or adapt the tool for their own needs.
 
