@@ -8,7 +8,6 @@
 
 **Obiettivo del progetto**
 
-Il motivo per il quale ho iniziato questo progetto:
 - Volevo creare una tool utile e allo stesso tempo allenarmi in Java.
 - Volevo giocare al gioco in modo diverso.
 
