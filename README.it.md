@@ -27,10 +27,10 @@ I nomi, le immagini e i contenuti originali appartengono ai rispettivi proprieta
 Sono disponibili due versioni di TalismanRandomizer, entrambe create e mantenute da me:
 
 **Versione con interfaccia grafica (GUI):**
-https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
+- https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
 
 **Versione da terminale (CMD):** (disponibile solo in italiano)
-https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
+- https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
 Entrambe le versioni sono disponibili in formato codice sorgente, in modo che chiunque voglia possa studiare, modificare o adattare il tool alle proprie esigenze.
 
