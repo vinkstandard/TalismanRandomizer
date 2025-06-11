@@ -1,6 +1,6 @@
 # Talisman Randomizer
 
-👉 [English](README.en.md)
+[English](README.en.md)
 
 **TalismanRandomizer** è un tool non ufficiale pensato come supporto per i giocatori di Talisman: The Magical Quest Game, il celebre gioco da tavolo fantasy ideato da Robert Harris e pubblicato da Games Workshop e Fantasy Flight Games.
 
