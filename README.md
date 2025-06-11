@@ -2,6 +2,8 @@
 
 [Italiano](README.it.md) 
 
+![Demo](img/clip.gif)
+
 **TalismanRandomizer** is an unofficial tool designed to support players of *Talisman: The Magical Quest Game*, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
 
 **Project Goals**  
@@ -12,8 +14,6 @@ The reasons behind this project:
 🔴 **TalismanRandomizer is an unofficial fan-made tool for personal and community use.
 It is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.
 All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
-
-![Demo Animata](img/demo.gif)
 
 🟢 **Procedure:**  
 - **Enter the number of players**  
