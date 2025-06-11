@@ -1,6 +1,6 @@
 # Talisman Randomizer
 
-Il Sistema Pseudointelligente di Estrazione Aleatoria Nominativa ad Alta Entropia_v2™ (S.P.E.A.N.A.E.) Made by Vincent, o più comunemente conosciuto come TalismanRandomizer, è un tool non ufficiale pensato come supporto per i giocatori di Talisman: The Magical Quest Game, il celebre gioco da tavolo fantasy ideato da Robert Harris e pubblicato da Games Workshop e Fantasy Flight Games.
+TalismanRandomizer, è un tool non ufficiale pensato come supporto per i giocatori di Talisman: The Magical Quest Game, il celebre gioco da tavolo fantasy ideato da Robert Harris e pubblicato da Games Workshop e Fantasy Flight Games.
 
 🎯 Obiettivo del progetto Questo progetto nasce con uno scopo educativo e di apprendimento della programmazione, ma anche con l’intento di:
 
