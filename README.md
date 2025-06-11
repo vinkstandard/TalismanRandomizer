@@ -2,8 +2,6 @@
 
 [Italiano](README.it.md) 
 
-![Demo](img/clip.gif)
-
 **TalismanRandomizer** is an unofficial tool designed to support players of *Talisman: The Magical Quest Game*, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
 
 **Project Goals**  
