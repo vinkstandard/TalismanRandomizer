@@ -33,3 +33,5 @@ Entrambe le versioni sono disponibili in formato codice sorgente, in modo che ch
 🔴 La distribuzione e l’utilizzo del programma sono permessi, così come la modifica del codice per scopi personali o didattici.
 
 🔴 Se desideri pubblicare una versione modificata del programma, è obbligatorio includere il link della mia repository GitHub come autore originale nella descrizione del tuo progetto o nel file README.
+
+Per domande o altro, questo è il mio Discord ID: 176797901102645248
