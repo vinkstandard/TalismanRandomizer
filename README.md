@@ -11,10 +11,10 @@ The reasons behind this project:
 - I wanted to create an useful tool and in the same time, train my Java skills.
 - I wanted to play the game in a different way.
 
-[!CAUTION]
-🔴 **TalismanRandomizer is an unofficial fan-made tool for personal and community use.
-It is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.
-All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
+> [!IMPORTANT]
+> 🔴 **TalismanRandomizer is an unofficial fan-made tool for personal and community use.
+> It is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.
+> All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
 
 🟢 **Procedure:**  
 - **Enter the number of players**  
