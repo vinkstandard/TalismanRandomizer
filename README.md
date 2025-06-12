@@ -44,6 +44,7 @@
 > **At the moment the program runs smoothly on Windows devices, dunno about other OS**
 > 
 > In some cases, when running the program windows will alert you saying that it may be dangerous, however, it's not, feel free to scan it with any tools like https://www.virustotal.com/
+> 
 > The intended use for this tool:
 > After you have you generate the characters, you can choose any of your liking(in game) and your friends will do the same.
 > It's basically a different option between Picking(selecting characters manually) and Random(only get 1 random character).
