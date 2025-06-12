@@ -38,6 +38,12 @@
 > - https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
 > [!NOTE]
+> The intended use for this tool:
+> After you have you generate the characters, you can choose any of your liking(in game) and your friends will do the same.
+> It's basically a different option between Picking(selecting characters manually) and Random(only get 1 random character).
+> Anyway feel free to use it as you prefer.
+
+> [!CAUTION]
 > Both versions are available as source code, so anyone interested can study, modify, or adapt the tool for their own needs.
 >
 > Distribution and use of the program are permitted, as is code modification for personal or educational purposes.  
