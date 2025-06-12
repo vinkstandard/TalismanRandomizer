@@ -45,6 +45,7 @@
 > **Attualmente il programma funziona su Windows, su altri OS bho**
 > 
 > In alcuni casi, windows potrebbe avvisarvi che il programma potrebbe essere dannoso, anche se non lo è, controllate voi stoessi con un virus checker come https://www.virustotal.com/
+> 
 > L'uso pensato per questo programma:
 > Dopo che hai generato i personaggi giocabili, puoi sceglierne uno a tuo piacimento(in gioco) e i tuoi amici faranno lo stesso.
 > Praticamente è un modo diverso di giocare il gioco, una variante del classico Picking(scelta del personaggio manuale) e il Random(1 personaggio casuale).
