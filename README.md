@@ -29,10 +29,10 @@
 
 > [!IMPORTANT]  
 > 🔗 **Available Versions**  
-> Two versions of TalismanRandomizer are available, both created and maintained by me:
+> Two versions of TalismanRandomizer source codes are available, both created and maintained by me:
 >
 > **GUI Version:**  
-> - https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
+> - https://github.com/vinkstandard/TalismanRandomizerFX/tree/master (src for this one)
 >
 > **Command-Line Version (CMD):** (only available in italian)
 > - https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
