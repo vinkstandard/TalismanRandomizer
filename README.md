@@ -17,7 +17,9 @@
 > All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
 
 > [!TIP]
-> **Procedure:**  
+> **Procedure:**
+> To download, on the right of this page, download the latest release zipfile, once you extract and run the .exe you will have the to do the following tasks:
+> 
 > - **Enter the number of players**  
 >  In the initial window, you will be asked to enter how many players will take part in the game. The number entered will determine how many characters will be drawn.
 >
@@ -44,7 +46,7 @@
 > Anyway feel free to use it as you prefer.
 
 > [!CAUTION]
-> Both versions are available as source code, so anyone interested can study, modify, or adapt the tool for their own needs.
+> Both versions source codes are available, so anyone interested can study, modify, or adapt the tool for their own needs.
 >
 > Distribution and use of the program are permitted, as is code modification for personal or educational purposes.  
 > If you wish to publish a modified version of the program, you must include a link to my original GitHub repository as the original author in your project description or README file.
