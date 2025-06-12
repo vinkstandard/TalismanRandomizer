@@ -18,6 +18,7 @@
 
 > [!TIP]
 > **Procedure:**
+> 
 > To download, on the right of this page, download the latest release zipfile, once you extract and run the .exe you will have the to do the following tasks:
 > 
 > - **Enter the number of players**  
@@ -43,7 +44,6 @@
 > The intended use for this tool:
 > After you have you generate the characters, you can choose any of your liking(in game) and your friends will do the same.
 > It's basically a different option between Picking(selecting characters manually) and Random(only get 1 random character).
-> Anyway feel free to use it as you prefer.
 
 > [!CAUTION]
 > Both versions source codes are available, so anyone interested can study, modify, or adapt the tool for their own needs.
