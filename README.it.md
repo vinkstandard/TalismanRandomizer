@@ -19,7 +19,7 @@
 > [!TIP]
 > **Procedura:**
 > 
-> Per scaricare l'app, scarica la release più recente sula destra. Una volta estratto il .zip e avviato il .exe avrai le seguenti scelte:
+> Per scaricare il programma, scarica la release più recente sula destra. Una volta estratto il .zip e avviato il .exe avrai le seguenti scelte:
 > - **Inserimento del numero di giocatori**
 >  Nella finestra iniziale verrà richiesto di indicare quanti giocatori prenderanno parte alla partita. Il numero inserito determinerà quanti personaggi verranno estratti successivamente.
 > 
@@ -42,8 +42,12 @@
 > - https://github.com/vinkstandard/github-intelliJ/blob/master/src/ChallengeInteressanti/TalismanRandomizer.java
 
 > [!NOTE]
+> L'uso pensato per questo programma:
+> Dopo che hai generato i personaggi giocabili, puoi sceglierne uno a tuo piacimento(in gioco) e i tuoi amici faranno lo stesso.
+> Praticamente è un modo diverso di giocare il gioco, una variante del classico Picking(scelta del personaggio manuale) e il Random(1 personaggio casuale).
+
+> [!CAUTION]
 > Entrambe le versioni sono disponibili in formato codice sorgente, in modo che chiunque voglia possa studiare, modificare o adattare il tool alle proprie esigenze.
 >
 > La distribuzione e l’utilizzo del programma sono permessi, così come la modifica del codice per scopi personali o didattici.
->
 > Se desideri pubblicare una versione modificata del programma, è obbligatorio includere il link della mia repository GitHub come autore originale nella descrizione del tuo progetto o nel file README.
