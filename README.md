@@ -4,7 +4,7 @@
 
 [![View Demo](https://img.shields.io/badge/▶%20View%20Demo-gray)](img/clip.gif)
 
-**TalismanRandomizer** is an unofficial tool designed to support players of Talisman Digital Edition, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
+**TalismanRandomizer** is a tool designed to support players of Talisman Digital Edition, the famous fantasy board game created by Robert Harris and published by Games Workshop and Fantasy Flight Games.
 
 **Project Goals**  
 
