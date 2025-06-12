@@ -31,9 +31,9 @@
 > [!IMPORTANT]  
 > 🔗 **Versioni disponibili**
 >
-> Sono disponibili due versioni di TalismanRandomizer, entrambe create e mantenute da me:
+> Sono disponibili due versioni di codici sorgente di TalismanRandomizer, entrambe create e mantenute da me:
 >
-> **Versione con interfaccia grafica (GUI):**
+> **Versione con interfaccia grafica (GUI):** (questo qua)
 > - https://github.com/vinkstandard/TalismanRandomizerFX/tree/master
 >
 > **Versione da terminale (CMD):** (disponibile solo in italiano)
