@@ -47,7 +47,8 @@
 > 
 > The intended use for this tool:
 > After you have you generate the characters, you can choose any of your liking(in game) and your friends will do the same.
-> It's basically a different option between Picking(selecting characters manually) and Random(only get 1 random character).
+> Each player basically gets as many choices as the number of players.
+> It's a different option between Picking(selecting characters manually) and Random(only get 1 random character).
 
 > [!CAUTION]
 > Both versions source codes are available, so anyone interested can study, modify, or adapt the tool for their own needs.
