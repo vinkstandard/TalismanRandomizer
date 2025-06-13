@@ -47,8 +47,10 @@
 > In alcuni casi, windows potrebbe avvisarvi che il programma potrebbe essere dannoso, anche se non lo è, controllate voi stoessi con un virus checker come https://www.virustotal.com/
 > 
 > L'uso pensato per questo programma:
+> 
 > Dopo che hai generato i personaggi giocabili, puoi sceglierne uno a tuo piacimento(in gioco) e i tuoi amici faranno lo stesso.
-> Praticamente è un modo diverso di giocare il gioco, una variante del classico Picking(scelta del personaggio manuale) e il Random(1 personaggio casuale).
+> Praticamente ogni giocatore potrà scegliere tra una lista di personaggi grande quanti sono i numeri di giocatori nella partita.
+> E' un modo diverso di giocare il gioco, una variante del classico Picking(scelta del personaggio manuale) e il Random(1 personaggio casuale).
 
 > [!CAUTION]
 > Entrambe le versioni sono disponibili in formato codice sorgente, in modo che chiunque voglia possa studiare, modificare o adattare il tool alle proprie esigenze.
