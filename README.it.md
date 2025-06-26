@@ -19,7 +19,7 @@
 > [!TIP]
 > **Procedura:**
 > 
-> Per scaricare il programma, scarica la release più recente sula destra. Una volta estratto il .zip e avviato il .exe avrai le seguenti scelte:
+> Per scaricare il programma, scarica la [**release**](https://github.com/vinkstandard/TalismanRandomizer/releases) più recente sula destra. Una volta estratto il .zip e avviato il .exe avrai le seguenti scelte:
 > - **Inserimento del numero di giocatori**
 >  Nella finestra iniziale verrà richiesto di indicare quanti giocatori prenderanno parte alla partita. Il numero inserito determinerà quanti personaggi verranno estratti successivamente.
 > 
