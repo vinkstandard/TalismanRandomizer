@@ -14,12 +14,12 @@
 > [!WARNING]
 > **TalismanRandomizer is an unofficial fan-made tool for personal and community use.
 > It is not affiliated with, supported by, or authorized by Games Workshop, Fantasy Flight Games, Asmodee, or any other rights holders of Talisman.
-> All names, artwork, and original content remain the property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
+> All names, artwork, and original content remain property of their respective owners and are used under fair use principles for non-commercial and educational purposes.**
 
 > [!TIP]
 > **Procedure:**
 > 
-> To download, on the right of this page, download the latest release zipfile, once you extract and run the .exe you will have the to do the following tasks:
+> To download, on the right of this page, click on [**releases**](https://github.com/vinkstandard/TalismanRandomizer/releases) download the latest release zipfile, once you extract and run the .exe you will have the to do the following tasks:
 > 
 > - **Enter the number of players**  
 >  In the initial window, you will be asked to enter how many players will take part in the game. The number entered will determine how many characters will be drawn.
@@ -46,6 +46,7 @@
 > In some cases, when running the program windows will alert you saying that it may be dangerous, however, it's not, feel free to scan it with any tools like https://www.virustotal.com/
 > 
 > The intended use for this tool:
+> 
 > After you have you generate the characters, you can choose any of your liking(in game) and your friends will do the same.
 > Each player basically gets as many choices as the number of players.
 > It's a different option between Picking(selecting characters manually) and Random(only get 1 random character).
